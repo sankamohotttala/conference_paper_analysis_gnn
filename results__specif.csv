@@ -1,0 +1,85 @@
+DOI,Title,Matched Columns,Matched keywards
+10.1109/ICAC49085.2019.9103416,An Automated Tool for Memory Forensics,"Abstract, Abstract","recurrent neural network, rnn"
+10.1109/ICAC49085.2019.9103381,Stock Market Prediction Using Machine Learning Techniques,"Abstract, Abstract","rnn, lstm"
+10.1109/ICAC49085.2019.9103425,Using CNNs RNNs and Machine Learning Algorithms for Real-time Crime Prediction,"Author Keywords, Author Keywords, Author Keywords","rnn, lstm, long short-term memory"
+10.1109/ICAC49085.2019.9103428,Comparative analysis of the application of Deep Learning techniques for Forex Rate prediction,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, lstm"
+10.1109/ICAC49085.2019.9103382,AuthDNA: An Adaptive Authentication Service for any Identity Server,"Abstract, Author Keywords","recurrent neural network, rnn"
+10.1109/ICAC49085.2019.9103341,Deep Learning based Flood Prediction and Relief Optimization,"Abstract, Abstract, Abstract, Author Keywords","recurrent neural network, lstm, long short term memory, lstm"
+10.1109/ICAC51239.2020.9357274,A Deep Learning Approach to Outbreak related Tweet Detection,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords","recurrent neural network, lstm, long short-term memory, rnn, lstm"
+10.1109/ICAC51239.2020.9357267,IoT Based Sign Language Recognition System,Author Keywords,recurrent neural network
+10.1109/ICAC51239.2020.9357161,Deepfake Audio Detection: A Deep Learning Based Solution for Group Conversations,Abstract,recurrent neural network
+10.1109/ICAC51239.2020.9357129,Aspect Based Sentiment Analysis for Evaluating Movies and TV series,Author Keywords,long short-term memory
+10.1109/ICAC51239.2020.9357256,Supply and Demand Planning for Water: A Sustainable Water Management System,"Abstract, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, Author Keywords, Author Keywords","recurrent neural network, rnn, lstm, long short-term memory, recurrent neural network, rnn, lstm, long short-term memory"
+10.1109/ICAC51239.2020.9357144,Exploiting Multivariate LSTM Models with Multistep Price Forecasting for Agricultural Produce in Sri Lankan Context,"Document Title, Abstract, Author Keywords","lstm, lstm, lstm"
+10.1109/ICAC51239.2020.9357150,Smart Personal Intelligent Assistant for Candidates of IELTS Exams,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, long short-term memory"
+10.1109/ICAC54203.2021.9671132,Effectiveness of Stock Index Forecasting using ARIMA model: Evidence from New Zealand,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICAC54203.2021.9671112,IoT-based Monitoring System for Oyster Mushroom Farming,"Abstract, Abstract","lstm, long short term memory"
+10.1109/ICAC54203.2021.9671146,Data-driven Business Intelligence Platform for Smart Retail Stores,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICAC54203.2021.9671125,PharmaGo-An Online Pharmaceutical Ordering Platform,Author Keywords,lstm
+10.1109/ICAC54203.2021.9671224,Price Optimisation and Management,Abstract,lstm
+10.1109/ICAC57685.2022.10025201,Assistant Zone – Homeschooling Assistance System based on Natural Language Processing,"Abstract, Author Keywords","recurrent neural network, rnn"
+10.1109/ICAC57685.2022.10025072,"Comparison of ARIMA and LSTM in Forecasting the Retail Prices of Vegetables in Colombo, Sri Lanka","Document Title, Abstract, Author Keywords","lstm, lstm, lstm"
+10.1109/ICAC57685.2022.10025338,Face Skin Disease Detection and Community based Doctor Recommendation System,Author Keywords,lstm
+10.1109/ICAC57685.2022.10025124,Human Behavior Analysis for Psychological Healthcare Sector (Project SERENITY),Author Keywords,long short-term memory
+10.1109/ICAC57685.2022.10025259,Anomaly Detection in Microservice Systems Using Autoencoders,Author Keywords,lstm
+10.1109/ICAC60630.2023.10417368,Dr. Fish: A Deep Learning-Based Mobile Application for Ornamental Fish Industry in Sri Lanka,"Abstract, Author Keywords","rnn, rnn"
+10.1109/ICAC60630.2023.10417279,Katha App: Sinhala Phonological Disorder Detection and Treatment in Early Childhood,"Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","lstm, long short-term memory, lstm, long short-term memory, long short term memory"
+10.1109/ICAC60630.2023.10417592,"MindRelax: Smart System for Emotion and Mental Stress Monitoring, Detection and Management","Abstract, Author Keywords","lstm, lstm"
+10.1109/ICAC60630.2023.10417616,The Realtime Yoga Assistance System,"Author Keywords, Author Keywords","lstm, long short-term memory"
+10.1109/ICAC60630.2023.10417565,Identifying False Content and Hate Speech in Sinhala YouTube Videos by Analyzing the Audio,Abstract,lstm
+10.1109/ICAC60630.2023.10417312,Effectiveness of Deep Learning Technologies to Assist Educational Inclusion for Children with Down Syndrome,"Abstract, Author Keywords","lstm, lstm"
+10.1109/ICAC60630.2023.10417152,“DiagnoMe” Mobile Application for Identifying and Predicting the Chronic Diseases,"Abstract, Author Keywords","rnn, rnn"
+10.1109/ICARC61713.2024.10499747,Deep Learning-Based Ensemble Model for Predicting the Lifestyle Status of a Person,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICARC61713.2024.10499767,Utilization of Various Optimization Algorithms in Neural Network Models for Forecasting Exchange Rates,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICARC61713.2024.10499768,Hate Speech Detection for Transliterated English and Sinhala Code-Mixed Data,"Abstract, Abstract, Abstract","rnn, lstm, long short-term memory"
+10.1109/ICARC61713.2024.10499790,Unmasking Fake News with Emotional Cues: A Comparative Study of Sentiment Reasoning Models,"Abstract, Abstract, Abstract, Abstract, Author Keywords, Author Keywords","recurrent neural network, rnn, lstm, long short-term memory, rnn, lstm"
+10.1109/ICARC61713.2024.10499702,Analyzing User's Sentiments Using Twitter Data on the Usage of ChatGPT,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICARC61713.2024.10499785,Swa Bhasha 2.0: Addressing Ambiguities in Romanized Sinhala to Native Sinhala Transliteration Using Neural Machine Translation,Abstract,gru
+10.1109/ICARC57651.2023.10145745,Fine-tuning XLM-R for the Detection of Sinhala Hate Speech Content on Twitter and Youtube,Abstract,rnn
+10.1109/ICARC57651.2023.10145708,Sentiment Analysis of Twitter Data on the Tourism Industry During the Covid-19 Pandemic,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICARC57651.2023.10145698,Red onion price factors correlation identification and price prediction using multiple machine learning models for Jaffna district Sri Lanka,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, long short-term memory"
+10.1109/ICARC57651.2023.10145620,Accuracy Comparison between Recurrent Neural Networks and Statistical Methods for Temperature Forecasting,"Abstract, Author Keywords, Author Keywords","rnn, rnn, lstm"
+10.1109/ICARC57651.2023.10145586,Early Detection of Sinhala Fake News in Social Media,Abstract,lstm
+10.1109/ICARC57651.2023.10145641,Twitter Mining for Detecting Home Violence,"Abstract, Author Keywords","lstm, lstm"
+10.1109/ICARC57651.2023.10145744,Tamil Grammarly – A Typing Assistant for Tamil Language using Natural Language Processing,Abstract,lstm
+10.1109/ICARC54489.2022.9753776,Long-Term Trend Analysis for Social Media Content Published During COVID-19 Pandemic,"Abstract, Abstract","rnn, lstm"
+10.1109/ICARC54489.2022.9754142,Smart Stethoscope: Intelligent Respiratory Disease Prediction System,"Abstract, Abstract, Abstract","recurrent neural network, lstm, long short-term memory"
+10.1109/ICIIS47346.2019.9063354,A Multi-language Platform for Generating Algebraic Mathematical Word Problems,"Abstract, Abstract","lstm, long short term memory"
+10.1109/ICIIS47346.2019.9063310,Multi-Step-Ahead Prediction of Exchange Rates Using Artificial Neural Networks: A Study on Selected Sri Lankan Foreign Exchange Rates,"Abstract, Abstract, Author Keywords, Author Keywords","recurrent neural network, long short-term memory, lstm, gru"
+10.1109/ICIIS51140.2020.9342694,Modified Auto Regressive Technique for Univariate Time Series Prediction of Solar Irradiance,"Abstract, IEEE Terms","long short term memory, long short term memory"
+10.1109/ICIIS51140.2020.9342733,Comparison of Neural Networks for Foreign Exchange Rate Prediction,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","lstm, gru, long short term memory, lstm, gru, long short term memory"
+10.1109/ICIIS51140.2020.9342742,Sarcasm Detection in Newspaper Headlines,Author Keywords,rnn
+10.1109/ICIIS53135.2021.9660738,Part of Speech Tagging for Tamil Language Using Deep Learning,Abstract,long short term memory
+10.1109/ICIIS53135.2021.9660677,Non - Invasive Technique to Automate General Movements Assessment,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, lstm"
+10.1109/ICIIS53135.2021.9660747,Fetal Movement Identification from Multi-Accelerometer Measurements using Recurrent Neural Networks,Author Keywords,recurrent neural network
+10.1109/ICIIS53135.2021.9660654,Screening Child’s Screen Time,Abstract,lstm
+10.1109/ICIIS53135.2021.9660662,Exploring Deep Learning and Tree-Based Ensemble Models for Chiller Energy Consumption Predictions,"Abstract, Abstract","recurrent neural network, rnn"
+10.1109/ICIIS53135.2021.9660637,Analysis on the Risk and the Categorization on Test Automation in Sri Lankan Software Industry,Abstract,lstm
+10.1109/ICIIS53135.2021.9660701,Integrated Video Based Crowdedness Forecasting Framework with a Review of Crowd Counting Models,"Abstract, Abstract","recurrent neural network, long short term memory"
+10.1109/ICIIS58898.2023.10253519,"Transformer Load Forecasting Method Based on SARIMA, FBProphet and LSTM Models","Document Title, Abstract, Author Keywords","lstm, lstm, lstm"
+10.1109/ICIIS58898.2023.10253497,Analyzing Trends and Topics of Sinhala Hate Speech on Twitter: A Time Series Approach,Author Keywords,lstm
+10.1109/ICIIS58898.2023.10253538,Neural Network-Based Pipeline for Detection of Sensor Anomalies in Battery Energy Storage Systems,"Abstract, Abstract, Abstract, Abstract, Author Keywords","recurrent neural network, rnn, lstm, long short-term memory, long short-term memory"
+10.1109/ICIIS58898.2023.10253582,Empirical Analysis for the Selection of Baseline Performances for Short Text Classification,"Abstract, Abstract","rnn, lstm"
+10.1109/ICIIS58898.2023.10253504,Machine Learning based Atmospheric Duct Interference Evaluation in TD-LTE Networks,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/ICIIS58898.2023.10253541,Siamese Networks for RF-Based Vehicle Trajectory Prediction,Abstract,long short term memory
+10.1109/ICIIS58898.2023.10253510,A Wearable LSTM Autoencoder-based ECG Detection System to Predict Myocardial Infarction,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","lstm, lstm, long short-term memory, lstm, long short-term memory"
+10.1109/MERCon50084.2020.9185327,Sentiment Analysis of Sinhala News Comments using Sentence-State LSTM Networks,"Document Title, Abstract, Author Keywords","lstm, long short-term memory, lstm"
+10.1109/MERCon52712.2021.9525740,End To End Model For Speaker Identification With Minimal Training Data,"Abstract, Abstract","lstm, long short term memory"
+10.1109/MERCon52712.2021.9525709,Multi-Step Bidirectional LSTM for Low Frequent Bus Travel Time Prediction,"Document Title, Abstract, Author Keywords","lstm, lstm, lstm"
+10.1109/MERCon52712.2021.9525786,Monolingual Sentence Similarity Measurement using Siamese Neural Networks for Sinhala and Tamil Languages,"Abstract, Abstract, Author Keywords, Author Keywords","lstm, long short-term memory, lstm, long short-term memory"
+10.1109/MERCon52712.2021.9525670,Short-Term Traffic Forecasting using LSTM-based Deep Learning Models,"Document Title, Abstract, Author Keywords","lstm, lstm, lstm"
+10.1109/MERCon52712.2021.9525690,Comparison of Time Series Forecast Models for Rainfall and Drought Prediction,"Abstract, Abstract, Author Keywords","recurrent neural network, rnn, rnn"
+10.1109/MERCon55799.2022.9906226,Application of LSTM and ANN Models for Traffic Time Headway Prediction in Expressway Tollgates,"Document Title, Abstract, Abstract, Author Keywords","lstm, lstm, long short-term memory, lstm"
+10.1109/MERCon60487.2023.10355519,Development of AI-Based Optimum Energy Resource Management System for Prosumers with Solar Rooftops,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, lstm"
+10.1109/MERCon60487.2023.10355403,Vision Attentive Robot for Elderly Room,"Abstract, Author Keywords","lstm, lstm"
+10.1109/MERCon63886.2024.10688604,Artificial Intelligence Techniques in Hydrology and Water Resources Management and Their Applicability to Sri Lankan River Basins,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","rnn, lstm, gru, lstm, gru, long short term memory"
+10.1109/MERCon63886.2024.10689234,Motion Control of an Unmanned Catamaran Vessel for Maritime Environment,Abstract,recurrent neural network
+10.1109/SCSE56529.2022.9905170,Extraction of Sentiments in Tamil Sentences Using Deep Learning,Abstract,long short-term memory
+10.1109/SCSE56529.2022.9905191,Stock Market Prediction using Artificial Intelligence,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, Author Keywords","lstm, gru, long short-term memory, lstm, gru, long short-term memory"
+10.1109/SCSE59836.2023.10215044,Preserving India’s Rich Dance Heritage: A Classification of Indian Dance Forms and Innovative Digital Management Solutions for Cultural Heritage Conservation,"Abstract, Abstract, Author Keywords","recurrent neural network, rnn, rnn"
+10.1109/SCSE59836.2023.10214999,Interpretation of Sri Lankan Sign Language: A Wearable Sensor-based Approach,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/SCSE59836.2023.10215027,The Role of Social Media (Twitter) in Analysing Home Violence: A Machine Learning Approach,"Abstract, Author Keywords","lstm, lstm"
+10.1109/SCSE59836.2023.10215047,Integrating Weather Patterns into Machine Learning Models for Improved Electricity Demand Forecasting in Sri Lanka,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/SCSE61872.2024.10550875,Handwritten Prescription Recognition Using VGG Based Architecture with Bi-LSTM,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","lstm, recurrent neural network, rnn, lstm, long short-term memory"
+10.1109/SCSE61872.2024.10550832,Recommend Source Codes Considering Designing Patterns using Machine Learning Algorithm,"Abstract, Abstract","lstm, long short-term memory"
+10.1109/SCSE61872.2024.10550526,Automatic Multi-Class Non-Functional Software Requirements Classification Using Machine Learning Algorithms,"Abstract, Abstract, Author Keywords","lstm, long short-term memory, long short-term memory"

@@ -1,0 +1,64 @@
+Keyword
+machine learning
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+ensemble learning
+decision tree
+random forest
+support vector machine
+k-nearest neighbors
+naive bayes
+gradient boosting
+adaboost
+xgboost
+catboost
+lightgbm
+bagging
+clustering
+k-means clustering
+hierarchical clustering
+dbscan
+expectation-maximization
+gaussian mixture model
+principal component analysis
+t-distributed stochastic neighbor embedding
+feature selection
+feature engineering
+dimensionality reduction
+cross-validation
+overfitting
+underfitting
+hyperparameter tuning
+grid search
+random search
+bayesian optimization
+model evaluation
+confusion matrix
+precision
+recall
+f1 score
+roc curve
+auc score
+mean absolute error
+mean squared error
+root mean squared error
+bias-variance tradeoff
+training set
+test set
+validation set
+data preprocessing
+outlier detection
+data augmentation
+transfer learning
+svm
+knn
+gmm
+pca
+t-sne
+mae
+mse
+rmse
+r²
+support vector classifier
